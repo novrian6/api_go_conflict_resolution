@@ -7,7 +7,7 @@ import (
 
 func handler(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, "Hello, World v2.1")
-	fmt.Fprintf(w, "added by developer 3")
+	
 
 }
 
